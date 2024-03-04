@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1 {
+  color: green;
+  font-family: sans-serif;
+  font-size: 50px;
+  font-weight: bolder;
+}
+
+img {
+  margin-top: 40px;
+}

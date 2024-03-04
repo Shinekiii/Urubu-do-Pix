@@ -1,0 +1,94 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: -45px;
+}
+
+.texto {
+  font-family: sans-serif;
+  font-size: 30px;
+  width: 205px;
+  font-weight: bolder;
+  margin-left: -890px;
+  margin-top: 30px;
+}
+
+.urubu {
+  color: #141817;
+  margin-bottom: 60px;
+  margin-right: 105px;
+}
+
+.dopix {
+  color: #535353;
+  margin-top: -70px;
+  margin-left: 27px;
+  width: 365px;
+}
+
+.oitok {
+  width: 100px;
+  height: 100px;
+  margin-top: -190px;
+  margin-left: 1169px;
+}
+
+.pix {
+  width: 100px;
+  height: 100px;
+  margin-left: -447px;
+  margin-top: -67px;
+}
+
+.ra {
+  width: 175px;
+  height: 75px;
+  margin-left: 1082px;
+}
+
+.urubuimg {
+  width: 332px;
+  height: 332px;
+  margin-top: 45px;
+  margin-left: 610px;
+}
+
+table {
+  width: 550px;
+  font-size: 30px;
+  margin-top: -332px;
+  margin-right: 514px;
+  font-family: sans-serif;
+  font-weight: bolder;
+}
+
+.vermelho {
+  color: red;
+}
+
+.verde {
+  color: green;
+}
+
+.btn {
+  border: black, 15px;
+  border-radius: 15px;
+  height: 35px;
+}
+
+.btn:hover {
+  border: none;
+  color: white;
+  background-color: green;
+  box-shadow: 5px 5px 10px #000000;
+}
+
+.seguro {
+  color: green;
+  font-family: sans-serif;
+  font-size: 65px;
+  margin-top: -83px;
+  margin-left: 294px;
+}
